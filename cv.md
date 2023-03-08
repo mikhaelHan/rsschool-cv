@@ -11,3 +11,27 @@ My name is Michael. I am an open, sincere and creative person and I easily make 
 - 09/00-03/04 __Grodno State Сollege of Technology__
 - 09/04-06/10 __Belarusian National Technical University__
 - 12/21-03/22 __JavaScript/Front-end Course in EPAM stage#0__
+### Skills
+- HTML
+- CSS(SCSS)
+- JavaScript (Basic)
+- Git&GitHub
+- English (A2)
+### Code
+```
+function combine(...some) {
+	const sum = {};
+	some.forEach((obj) => {
+		Object.keys(obj).forEach((key) => {
+			if (!sum[key]) { sum[key] = obj[key] }
+			else { sum[key] = sum[key] + obj[key] }
+		})
+	})
+	return sum
+}
+```
+### Hobbies
+- Swimming
+- Reading books
+- Сycling
+- Car's engine
