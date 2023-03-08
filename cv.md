@@ -35,3 +35,8 @@ function combine(...some) {
 - Reading books
 - Сycling
 - Car's engine
+### My projects
+- **Project** [Neste-oil](http://mikhaelhan.github.io/neste-oil/)
+- **Project** [Tic-tac-toe](https://rolling-scopes-school.github.io/mikhaelhan-JSFEPRESCHOOL/tic-tac-toe/)
+- **Project** [Image-galery](https://rolling-scopes-school.github.io/mikhaelhan-JSFEPRESCHOOL/image-galery/)
+- **Project** [Audio-player](https://mikhaelhan.github.io/audio-player/)
